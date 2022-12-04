@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahmoud-Samir43
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning web devolping
+- 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
